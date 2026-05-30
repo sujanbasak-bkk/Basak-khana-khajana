@@ -1,0 +1,6 @@
+{
+  "name": "Basak Khana Khajana",
+  "description": "Premium food ordering website with a robust admin panel, category editing, item stock management, order tracking with thermal invoice printing, and real-time carts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
